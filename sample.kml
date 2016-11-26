@@ -37,8 +37,9 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>a8ffffff</color>
+			<color>ffcc00cc</color>
 		</LineStyle>
+		<width>4</width>
 		<PolyStyle>
 			<fill>0</fill>
 		</PolyStyle>
